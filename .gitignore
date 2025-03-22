@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WemaAssessment/.vs/WemaAssessment/CopilotIndices/0.2.1657.32929/CodeChunks.db-shm
+/WemaAssessment/.vs/WemaAssessment/CopilotIndices/0.2.1657.32929/SemanticSymbols.db-shm
+/WemaAssessment/.vs/WemaAssessment/CopilotIndices/0.2.1657.32929/CodeChunks.db-wal
+/WemaAssessment/.vs/WemaAssessment/FileContentIndex
+/WemaAssessment/.vs/WemaAssessment/v17/.suo
