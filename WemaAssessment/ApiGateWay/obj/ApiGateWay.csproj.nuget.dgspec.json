@@ -11,7 +11,7 @@
         "projectName": "ApiGateWay",
         "projectPath": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\ApiGateWay\\ApiGateWay.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Source\\Repos\\WemaAssessmentRepo\\WemaAssessment\\ApiGateWay\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\ApiGateWay\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

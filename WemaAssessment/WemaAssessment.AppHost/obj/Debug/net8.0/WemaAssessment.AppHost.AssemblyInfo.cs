@@ -25,7 +25,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WemaAssessment.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc5eb3bee238d1b05740b9031d49cbc64ed2ebfc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1df41c52c763ec27d11f842928f891a0720a44f")]
 [assembly: System.Reflection.AssemblyProductAttribute("WemaAssessment.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WemaAssessment.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

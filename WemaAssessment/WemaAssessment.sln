@@ -5,13 +5,13 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerServiceApi", "CustomerServiceApi\CustomerServiceApi.csproj", "{0235570F-C7B1-4FBF-A652-4DF88C269009}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WemaAssessment.AppHost", "WemaAssessment.AppHost\WemaAssessment.AppHost.csproj", "{2AD3319A-5689-4D42-B2E5-D43928BB6FF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WemaAssessment.AppHost", "WemaAssessment.AppHost\WemaAssessment.AppHost.csproj", "{2AD3319A-5689-4D42-B2E5-D43928BB6FF8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WemaAssessment.ServiceDefaults", "WemaAssessment.ServiceDefaults\WemaAssessment.ServiceDefaults.csproj", "{3172B9DE-EECE-438D-B4DA-B74F91341B66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{6F988AEC-191E-49AF-93FC-F80C82824DEA}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGateWay", "ApiGateWay\ApiGateWay.csproj", "{C66E73AC-3208-4D39-9691-8E212C2BA010}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject", "TestProject\TestProject.csproj", "{C310441C-70BC-465D-8927-4512EC987BD5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,14 +31,14 @@ Global
 		{3172B9DE-EECE-438D-B4DA-B74F91341B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3172B9DE-EECE-438D-B4DA-B74F91341B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3172B9DE-EECE-438D-B4DA-B74F91341B66}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6F988AEC-191E-49AF-93FC-F80C82824DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6F988AEC-191E-49AF-93FC-F80C82824DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6F988AEC-191E-49AF-93FC-F80C82824DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6F988AEC-191E-49AF-93FC-F80C82824DEA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C66E73AC-3208-4D39-9691-8E212C2BA010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C66E73AC-3208-4D39-9691-8E212C2BA010}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C66E73AC-3208-4D39-9691-8E212C2BA010}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C66E73AC-3208-4D39-9691-8E212C2BA010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C310441C-70BC-465D-8927-4512EC987BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C310441C-70BC-465D-8927-4512EC987BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C310441C-70BC-465D-8927-4512EC987BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C310441C-70BC-465D-8927-4512EC987BD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

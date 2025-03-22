@@ -9,7 +9,7 @@ var customerService = builder.AddProject<Projects.CustomerServiceApi>("customers
 
 var apiGateWay = builder.AddProject<Projects.ApiGateWay>("apigateway").WithReference(customerService);
 
-builder.AddProject<Projects.TestProject1>("testproject1");
+builder.AddProject<Projects.TestProject>("testproject");
 
 var app = builder.Build();
 

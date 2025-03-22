@@ -142,12 +142,12 @@ C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\WemaAssessment.AppH
 C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\WemaAssessment.AppHost\obj\Debug\net8.0\WemaAssessment.AppHost.csproj.CoreCompileInputs.cache
 C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\WemaAssessment.AppHost\obj\Debug\net8.0\Aspire\references\ApiGateWay.ProjectMetadata.g.cs
 C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\WemaAssessment.AppHost\obj\Debug\net8.0\Aspire\references\CustomerServiceApi.ProjectMetadata.g.cs
-C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\WemaAssessment.AppHost\obj\Debug\net8.0\Aspire\references\TestProject1.ProjectMetadata.g.cs
+C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\WemaAssessment.AppHost\obj\Debug\net8.0\Aspire\references\TestProject.ProjectMetadata.g.cs
 C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\WemaAssessment.AppHost\obj\Debug\net8.0\Aspire\references\_AppHost.ProjectMetadata.g.cs
+C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\WemaAssessment.AppHost\obj\Debug\net8.0\WemaAssessment.AppHost.sourcelink.json
 C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\WemaAssessment.AppHost\obj\Debug\net8.0\WemaAsse.5C12A149.Up2Date
 C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\WemaAssessment.AppHost\obj\Debug\net8.0\WemaAssessment.AppHost.dll
 C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\WemaAssessment.AppHost\obj\Debug\net8.0\refint\WemaAssessment.AppHost.dll
 C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\WemaAssessment.AppHost\obj\Debug\net8.0\WemaAssessment.AppHost.pdb
 C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\WemaAssessment.AppHost\obj\Debug\net8.0\WemaAssessment.AppHost.genruntimeconfig.cache
 C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\WemaAssessment.AppHost\obj\Debug\net8.0\ref\WemaAssessment.AppHost.dll
-C:\Users\DELL\Source\Repos\WemaAssessmentRepo\WemaAssessment\WemaAssessment.AppHost\obj\Debug\net8.0\WemaAssessment.AppHost.sourcelink.json

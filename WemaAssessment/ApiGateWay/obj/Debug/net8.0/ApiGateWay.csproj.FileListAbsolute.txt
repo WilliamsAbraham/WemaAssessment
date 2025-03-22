@@ -136,6 +136,7 @@ C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\ApiGateWay\obj\Debu
 C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\ApiGateWay\obj\Debug\net8.0\ApiGateWay.csproj.CoreCompileInputs.cache
 C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\ApiGateWay\obj\Debug\net8.0\ApiGateWay.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\ApiGateWay\obj\Debug\net8.0\ApiGateWay.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\ApiGateWay\obj\Debug\net8.0\ApiGateWay.sourcelink.json
 C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\ApiGateWay\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\ApiGateWay\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\ApiGateWay\obj\Debug\net8.0\staticwebassets\msbuild.ApiGateWay.Microsoft.AspNetCore.StaticWebAssets.props
@@ -150,4 +151,3 @@ C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\ApiGateWay\obj\Debu
 C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\ApiGateWay\obj\Debug\net8.0\ApiGateWay.pdb
 C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\ApiGateWay\obj\Debug\net8.0\ApiGateWay.genruntimeconfig.cache
 C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\ApiGateWay\obj\Debug\net8.0\ref\ApiGateWay.dll
-C:\Users\DELL\Source\Repos\WemaAssessmentRepo\WemaAssessment\ApiGateWay\obj\Debug\net8.0\ApiGateWay.sourcelink.json
