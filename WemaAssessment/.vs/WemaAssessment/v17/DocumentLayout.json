@@ -1,0 +1,551 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|c:\\users\\dell\\source\\repos\\wemaassessmentrepo\\wemaassessment\\customerserviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|solutionrelative:customerserviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F988AEC-191E-49AF-93FC-F80C82824DEA}|TestProject1\\TestProject1.csproj|c:\\users\\dell\\source\\repos\\wemaassessmentrepo\\wemaassessment\\testproject1\\onboardingapitest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F988AEC-191E-49AF-93FC-F80C82824DEA}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\onboardingapitest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|c:\\users\\dell\\source\\repos\\wemaassessmentrepo\\wemaassessment\\customerserviceapi\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|solutionrelative:customerserviceapi\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|c:\\users\\dell\\source\\repos\\wemaassessmentrepo\\wemaassessment\\customerserviceapi\\controllers\\customeronboardingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|solutionrelative:customerserviceapi\\controllers\\customeronboardingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|c:\\users\\dell\\source\\repos\\wemaassessmentrepo\\wemaassessment\\customerserviceapi\\infrastructure\\implementation\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|solutionrelative:customerserviceapi\\infrastructure\\implementation\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD3319A-5689-4D42-B2E5-D43928BB6FF8}|WemaAssessment.AppHost\\WemaAssessment.AppHost.csproj|c:\\users\\dell\\source\\repos\\wemaassessmentrepo\\wemaassessment\\wemaassessment.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD3319A-5689-4D42-B2E5-D43928BB6FF8}|WemaAssessment.AppHost\\WemaAssessment.AppHost.csproj|solutionrelative:wemaassessment.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66E73AC-3208-4D39-9691-8E212C2BA010}|ApiGateWay\\ApiGateWay.csproj|c:\\users\\dell\\source\\repos\\wemaassessmentrepo\\wemaassessment\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C66E73AC-3208-4D39-9691-8E212C2BA010}|ApiGateWay\\ApiGateWay.csproj|solutionrelative:apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66E73AC-3208-4D39-9691-8E212C2BA010}|ApiGateWay\\ApiGateWay.csproj|c:\\users\\dell\\source\\repos\\wemaassessmentrepo\\wemaassessment\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66E73AC-3208-4D39-9691-8E212C2BA010}|ApiGateWay\\ApiGateWay.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|c:\\users\\dell\\source\\repos\\wemaassessmentrepo\\wemaassessment\\customerserviceapi\\infrastructure\\utilities\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|solutionrelative:customerserviceapi\\infrastructure\\utilities\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|c:\\users\\dell\\source\\repos\\wemaassessmentrepo\\wemaassessment\\customerserviceapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|solutionrelative:customerserviceapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|c:\\users\\dell\\source\\repos\\wemaassessmentrepo\\wemaassessment\\customerserviceapi\\infrastructure\\implementation\\bankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|solutionrelative:customerserviceapi\\infrastructure\\implementation\\bankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD3319A-5689-4D42-B2E5-D43928BB6FF8}|WemaAssessment.AppHost\\WemaAssessment.AppHost.csproj|c:\\users\\dell\\source\\repos\\wemaassessmentrepo\\wemaassessment\\wemaassessment.apphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AD3319A-5689-4D42-B2E5-D43928BB6FF8}|WemaAssessment.AppHost\\WemaAssessment.AppHost.csproj|solutionrelative:wemaassessment.apphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|c:\\users\\dell\\source\\repos\\wemaassessmentrepo\\wemaassessment\\customerserviceapi\\infrastructure\\implementation\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|solutionrelative:customerserviceapi\\infrastructure\\implementation\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|c:\\users\\dell\\source\\repos\\wemaassessmentrepo\\wemaassessment\\customerserviceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|solutionrelative:customerserviceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|c:\\users\\dell\\source\\repos\\wemaassessmentrepo\\wemaassessment\\customerserviceapi\\infrastructure\\persistence\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|solutionrelative:customerserviceapi\\infrastructure\\persistence\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|c:\\users\\dell\\source\\repos\\wemaassessmentrepo\\wemaassessment\\customerserviceapi\\core\\application\\exceptions\\internalserverexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|solutionrelative:customerserviceapi\\core\\application\\exceptions\\internalserverexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|c:\\users\\dell\\source\\repos\\wemaassessmentrepo\\wemaassessment\\customerserviceapi\\core\\application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|solutionrelative:customerserviceapi\\core\\application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|c:\\users\\dell\\source\\repos\\wemaassessmentrepo\\wemaassessment\\customerserviceapi\\core\\application\\exceptions\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|solutionrelative:customerserviceapi\\core\\application\\exceptions\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|c:\\users\\dell\\source\\repos\\wemaassessmentrepo\\wemaassessment\\customerserviceapi\\core\\application\\response\\responsefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|solutionrelative:customerserviceapi\\core\\application\\response\\responsefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|c:\\users\\dell\\source\\repos\\wemaassessmentrepo\\wemaassessment\\customerserviceapi\\core\\application\\response\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|solutionrelative:customerserviceapi\\core\\application\\response\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|c:\\users\\dell\\source\\repos\\wemaassessmentrepo\\wemaassessment\\customerserviceapi\\infrastructure\\implementation\\geolocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|solutionrelative:customerserviceapi\\infrastructure\\implementation\\geolocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|c:\\users\\dell\\source\\repos\\wemaassessmentrepo\\wemaassessment\\customerserviceapi\\infrastructure\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|solutionrelative:customerserviceapi\\infrastructure\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|c:\\users\\dell\\source\\repos\\wemaassessmentrepo\\wemaassessment\\customerserviceapi\\core\\application\\features\\customers\\createcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|solutionrelative:customerserviceapi\\core\\application\\features\\customers\\createcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|c:\\users\\dell\\source\\repos\\wemaassessmentrepo\\wemaassessment\\customerserviceapi\\core\\domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|solutionrelative:customerserviceapi\\core\\domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|c:\\users\\dell\\source\\repos\\wemaassessmentrepo\\wemaassessment\\customerserviceapi\\core\\application\\interfaces\\iotpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|solutionrelative:customerserviceapi\\core\\application\\interfaces\\iotpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|c:\\users\\dell\\source\\repos\\wemaassessmentrepo\\wemaassessment\\customerserviceapi\\core\\application\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|solutionrelative:customerserviceapi\\core\\application\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|c:\\users\\dell\\source\\repos\\wemaassessmentrepo\\wemaassessment\\customerserviceapi\\core\\application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|solutionrelative:customerserviceapi\\core\\application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|c:\\users\\dell\\source\\repos\\wemaassessmentrepo\\wemaassessment\\customerserviceapi\\core\\application\\interfaces\\igeolocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|solutionrelative:customerserviceapi\\core\\application\\interfaces\\igeolocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|c:\\users\\dell\\source\\repos\\wemaassessmentrepo\\wemaassessment\\customerserviceapi\\core\\application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|solutionrelative:customerserviceapi\\core\\application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|c:\\users\\dell\\source\\repos\\wemaassessmentrepo\\wemaassessment\\customerserviceapi\\core\\domain\\otp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|solutionrelative:customerserviceapi\\core\\domain\\otp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|c:\\users\\dell\\source\\repos\\wemaassessmentrepo\\wemaassessment\\customerserviceapi\\core\\application\\interfaces\\ibankservcie.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0235570F-C7B1-4FBF-A652-4DF88C269009}|CustomerServiceApi\\CustomerServiceApi.csproj|solutionrelative:customerserviceapi\\core\\application\\interfaces\\ibankservcie.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OnBoardingApiTest.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\TestProject1\\OnBoardingApiTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\OnBoardingApiTest.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\TestProject1\\OnBoardingApiTest.cs",
+              "RelativeToolTip": "TestProject1\\OnBoardingApiTest.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T22:46:04.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\ApiGateWay\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiGateWay\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\ApiGateWay\\appsettings.json",
+              "RelativeToolTip": "ApiGateWay\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T19:34:45.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CustomerServiceApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CustomerServiceApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T21:16:58.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "CustomerServiceApi\\Controllers\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "CustomerServiceApi\\Controllers\\BaseApiController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAwwJUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:45:14.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerServiceApi\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Program.cs",
+              "RelativeToolTip": "CustomerServiceApi\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAADgv0EAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:48:28.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerOnBoardingController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Controllers\\CustomerOnBoardingController.cs",
+              "RelativeDocumentMoniker": "CustomerServiceApi\\Controllers\\CustomerOnBoardingController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Controllers\\CustomerOnBoardingController.cs",
+              "RelativeToolTip": "CustomerServiceApi\\Controllers\\CustomerOnBoardingController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAowF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T21:36:33.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\WemaAssessment.AppHost\\Program.cs",
+              "RelativeDocumentMoniker": "WemaAssessment.AppHost\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\WemaAssessment.AppHost\\Program.cs",
+              "RelativeToolTip": "WemaAssessment.AppHost\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:21:58.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Infrastructure\\Implementation\\CustomerService.cs",
+              "RelativeDocumentMoniker": "CustomerServiceApi\\Infrastructure\\Implementation\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Infrastructure\\Implementation\\CustomerService.cs",
+              "RelativeToolTip": "CustomerServiceApi\\Infrastructure\\Implementation\\CustomerService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAgwJAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:24:25.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\ApiGateWay\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateWay\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\ApiGateWay\\Program.cs",
+              "RelativeToolTip": "ApiGateWay\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T19:37:24.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Infrastructure\\Utilities\\Constants.cs",
+              "RelativeDocumentMoniker": "CustomerServiceApi\\Infrastructure\\Utilities\\Constants.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Infrastructure\\Utilities\\Constants.cs",
+              "RelativeToolTip": "CustomerServiceApi\\Infrastructure\\Utilities\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:21:11.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OtpService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Infrastructure\\Implementation\\OtpService.cs",
+              "RelativeDocumentMoniker": "CustomerServiceApi\\Infrastructure\\Implementation\\OtpService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Infrastructure\\Implementation\\OtpService.cs",
+              "RelativeToolTip": "CustomerServiceApi\\Infrastructure\\Implementation\\OtpService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:33:51.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BankService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Infrastructure\\Implementation\\BankService.cs",
+              "RelativeDocumentMoniker": "CustomerServiceApi\\Infrastructure\\Implementation\\BankService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Infrastructure\\Implementation\\BankService.cs",
+              "RelativeToolTip": "CustomerServiceApi\\Infrastructure\\Implementation\\BankService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T21:13:06.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\WemaAssessment.AppHost\\appsettings.json",
+              "RelativeDocumentMoniker": "WemaAssessment.AppHost\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\WemaAssessment.AppHost\\appsettings.json",
+              "RelativeToolTip": "WemaAssessment.AppHost\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T19:26:58.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Infrastructure\\Persistence\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "CustomerServiceApi\\Infrastructure\\Persistence\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Infrastructure\\Persistence\\ApplicationContext.cs",
+              "RelativeToolTip": "CustomerServiceApi\\Infrastructure\\Persistence\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:48:26.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\appsettings.json",
+              "RelativeDocumentMoniker": "CustomerServiceApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\appsettings.json",
+              "RelativeToolTip": "CustomerServiceApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-20T19:53:39.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InternalServerException.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Core\\Application\\Exceptions\\InternalServerException.cs",
+              "RelativeDocumentMoniker": "CustomerServiceApi\\Core\\Application\\Exceptions\\InternalServerException.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Core\\Application\\Exceptions\\InternalServerException.cs",
+              "RelativeToolTip": "CustomerServiceApi\\Core\\Application\\Exceptions\\InternalServerException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:02:19.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Core\\Application\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "CustomerServiceApi\\Core\\Application\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Core\\Application\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "CustomerServiceApi\\Core\\Application\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:02:29.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomException.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Core\\Application\\Exceptions\\CustomException.cs",
+              "RelativeDocumentMoniker": "CustomerServiceApi\\Core\\Application\\Exceptions\\CustomException.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Core\\Application\\Exceptions\\CustomException.cs",
+              "RelativeToolTip": "CustomerServiceApi\\Core\\Application\\Exceptions\\CustomException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:02:06.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ResponseFactory.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Core\\Application\\Response\\ResponseFactory.cs",
+              "RelativeDocumentMoniker": "CustomerServiceApi\\Core\\Application\\Response\\ResponseFactory.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Core\\Application\\Response\\ResponseFactory.cs",
+              "RelativeToolTip": "CustomerServiceApi\\Core\\Application\\Response\\ResponseFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T13:57:25.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Core\\Application\\Response\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "CustomerServiceApi\\Core\\Application\\Response\\BaseResponse.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Core\\Application\\Response\\BaseResponse.cs",
+              "RelativeToolTip": "CustomerServiceApi\\Core\\Application\\Response\\BaseResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T13:55:22.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GeolocationService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Infrastructure\\Implementation\\GeolocationService.cs",
+              "RelativeDocumentMoniker": "CustomerServiceApi\\Infrastructure\\Implementation\\GeolocationService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Infrastructure\\Implementation\\GeolocationService.cs",
+              "RelativeToolTip": "CustomerServiceApi\\Infrastructure\\Implementation\\GeolocationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T13:42:22.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Infrastructure\\Implementation\\Repository.cs",
+              "RelativeDocumentMoniker": "CustomerServiceApi\\Infrastructure\\Implementation\\Repository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Infrastructure\\Implementation\\Repository.cs",
+              "RelativeToolTip": "CustomerServiceApi\\Infrastructure\\Implementation\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:55:57.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateCustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Core\\Application\\Features\\Customers\\CreateCustomerDto.cs",
+              "RelativeDocumentMoniker": "CustomerServiceApi\\Core\\Application\\Features\\Customers\\CreateCustomerDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Core\\Application\\Features\\Customers\\CreateCustomerDto.cs",
+              "RelativeToolTip": "CustomerServiceApi\\Core\\Application\\Features\\Customers\\CreateCustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:11:13.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Core\\Domain\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerServiceApi\\Core\\Domain\\Customer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Core\\Domain\\Customer.cs",
+              "RelativeToolTip": "CustomerServiceApi\\Core\\Domain\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:07:14.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IOtpService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Core\\Application\\Interfaces\\IOtpService.cs",
+              "RelativeDocumentMoniker": "CustomerServiceApi\\Core\\Application\\Interfaces\\IOtpService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Core\\Application\\Interfaces\\IOtpService.cs",
+              "RelativeToolTip": "CustomerServiceApi\\Core\\Application\\Interfaces\\IOtpService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:24:49.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Core\\Application\\Interfaces\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "CustomerServiceApi\\Core\\Application\\Interfaces\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Core\\Application\\Interfaces\\ICustomerService.cs",
+              "RelativeToolTip": "CustomerServiceApi\\Core\\Application\\Interfaces\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T09:59:09.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Core\\Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "CustomerServiceApi\\Core\\Application\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Core\\Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "CustomerServiceApi\\Core\\Application\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T07:48:19.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IBankServcie.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Core\\Application\\Interfaces\\IBankServcie.cs",
+              "RelativeDocumentMoniker": "CustomerServiceApi\\Core\\Application\\Interfaces\\IBankServcie.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Core\\Application\\Interfaces\\IBankServcie.cs",
+              "RelativeToolTip": "CustomerServiceApi\\Core\\Application\\Interfaces\\IBankServcie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T21:18:48.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IGeolocation.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Core\\Application\\Interfaces\\IGeolocation.cs",
+              "RelativeDocumentMoniker": "CustomerServiceApi\\Core\\Application\\Interfaces\\IGeolocation.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Core\\Application\\Interfaces\\IGeolocation.cs",
+              "RelativeToolTip": "CustomerServiceApi\\Core\\Application\\Interfaces\\IGeolocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:23:58.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Core\\Application\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "CustomerServiceApi\\Core\\Application\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Core\\Application\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "CustomerServiceApi\\Core\\Application\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:09:30.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Otp.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Core\\Domain\\Otp.cs",
+              "RelativeDocumentMoniker": "CustomerServiceApi\\Core\\Domain\\Otp.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\Core\\Domain\\Otp.cs",
+              "RelativeToolTip": "CustomerServiceApi\\Core\\Domain\\Otp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:06:24.301Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
