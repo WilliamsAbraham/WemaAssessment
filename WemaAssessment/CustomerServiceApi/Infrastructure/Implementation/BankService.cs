@@ -1,6 +1,7 @@
 ﻿using CustomerServiceApi.Core.Application.Features.Banks;
 using CustomerServiceApi.Core.Application.Interfaces;
 using CustomerServiceApi.Infrastructure.Utilities;
+using Microsoft.Extensions.Options;
 using System.Reflection.Metadata;
 
 namespace CustomerServiceApi.Infrastructure.Implementation
@@ -9,10 +10,12 @@ namespace CustomerServiceApi.Infrastructure.Implementation
     {
         private readonly IHttpClientFactory _httpClient;
         private readonly ILogger<BankService> _logger;
-        public BankService(IHttpClientFactory httpClient, ILogger<BankService> logger)
+        private readonly BankSettings _bankSettings;
+        public BankService(IHttpClientFactory httpClient, ILogger<BankService> logger, IOptions<BankSettings> bankSettings)
         {
             _httpClient = httpClient;
             _logger = logger;
+            _bankSettings = bankSettings.Value;
         }
 
         public async Task<BankResponse> GetBanksAsync()
@@ -23,7 +26,7 @@ namespace CustomerServiceApi.Infrastructure.Implementation
 
                 var clients = client;
 
-                var response = await client.GetFromJsonAsync<BankResponse>(Constants.GetALLBANKS);
+                var response = await client.GetFromJsonAsync<BankResponse>(_bankSettings.GetAllBanks);
                 return response.HasError ? new BankResponse { HasError = true, ErrorMessage = response.ErrorMessage } : response;
             }
             catch (Exception ex)

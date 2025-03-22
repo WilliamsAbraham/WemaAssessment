@@ -45,11 +45,10 @@ try
     .AddEntityFrameworkStores<ApplicationContext>()
     .AddDefaultTokenProviders();
 
-
+    builder.Services.Configure<BankSettings>(builder.Configuration.GetSection("BankSettings"));
     builder.Services.AddHttpClient("banks", (serviceProvider, client) =>
     {
-        var configuration = serviceProvider.GetRequiredService<IConfiguration>();
-
+        client.Timeout = TimeSpan.FromSeconds(60);
         client.BaseAddress = new Uri(Constants.BANKBASEURL);
     });
 
