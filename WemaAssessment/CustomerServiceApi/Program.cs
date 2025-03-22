@@ -48,6 +48,8 @@ try
 
     builder.Services.AddHttpClient("banks", (serviceProvider, client) =>
     {
+        var configuration = serviceProvider.GetRequiredService<IConfiguration>();
+
         client.BaseAddress = new Uri(Constants.BANKBASEURL);
     });
 
@@ -69,11 +71,11 @@ try
     // Configure the HTTP request pipeline.
     if (app.Environment.IsDevelopment())
     {
-       
+        app.UseSwagger();
+        app.UseSwagger();
+        app.UseSwaggerUI();
     }
-    app.UseSwagger();
-    app.UseSwagger();
-    app.UseSwaggerUI();
+
 
     //app.UseHttpsRedirection();
 
