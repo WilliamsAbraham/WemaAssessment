@@ -10821,7 +10821,7 @@
       "projectName": "TestProject1",
       "projectPath": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\TestProject1\\TestProject1.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\TestProject1\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Source\\Repos\\WemaAssessmentRepo\\WemaAssessment\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

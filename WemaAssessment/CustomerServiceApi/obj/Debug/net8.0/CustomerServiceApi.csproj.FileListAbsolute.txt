@@ -376,3 +376,4 @@ C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\CustomerServiceApi\
 C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\CustomerServiceApi\obj\Debug\net8.0\CustomerServiceApi.pdb
 C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\CustomerServiceApi\obj\Debug\net8.0\CustomerServiceApi.genruntimeconfig.cache
 C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\CustomerServiceApi\obj\Debug\net8.0\ref\CustomerServiceApi.dll
+C:\Users\DELL\Source\Repos\WemaAssessmentRepo\WemaAssessment\CustomerServiceApi\obj\Debug\net8.0\CustomerServiceApi.sourcelink.json

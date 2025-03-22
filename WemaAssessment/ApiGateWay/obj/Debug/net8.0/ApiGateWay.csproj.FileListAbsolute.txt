@@ -150,3 +150,4 @@ C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\ApiGateWay\obj\Debu
 C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\ApiGateWay\obj\Debug\net8.0\ApiGateWay.pdb
 C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\ApiGateWay\obj\Debug\net8.0\ApiGateWay.genruntimeconfig.cache
 C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\ApiGateWay\obj\Debug\net8.0\ref\ApiGateWay.dll
+C:\Users\DELL\Source\Repos\WemaAssessmentRepo\WemaAssessment\ApiGateWay\obj\Debug\net8.0\ApiGateWay.sourcelink.json

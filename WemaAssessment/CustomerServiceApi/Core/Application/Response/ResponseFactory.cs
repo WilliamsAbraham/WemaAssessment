@@ -41,7 +41,6 @@ public static class ApiResponseFactory
         TotalCount = totalRecords,
         TotalPages = (int)Math.Ceiling(totalRecords / (double)pageSize),
 
-        // Errors = null
     };
 
     public static ApiResponse<T> CreateValidationErrorResponse<T>(Dictionary<string, string[]> validationErrors)
@@ -50,13 +49,9 @@ public static class ApiResponseFactory
         {
             IsSuccess = false,
             Message = "Validation failed.",
-            //Data = default(T),
             ValidationErrors = validationErrors
         };
     }
 
-    //public static object CreateValidationErrorResponse<T>(object errors)
-    //{
-    //    throw new NotImplementedException();
-    //}
+   
 }

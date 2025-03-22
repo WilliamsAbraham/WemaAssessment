@@ -410,3 +410,4 @@ C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\TestProject1\obj\De
 C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\TestProject1\obj\Debug\net8.0\TestProject1.pdb
 C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\TestProject1\obj\Debug\net8.0\TestProject1.genruntimeconfig.cache
 C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\TestProject1\obj\Debug\net8.0\ref\TestProject1.dll
+C:\Users\DELL\Source\Repos\WemaAssessmentRepo\WemaAssessment\TestProject1\obj\Debug\net8.0\TestProject1.sourcelink.json

@@ -22,3 +22,4 @@ C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\WemaAssessment.Serv
 C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\WemaAssessment.ServiceDefaults\obj\Debug\net8.0\refint\WemaAssessment.ServiceDefaults.dll
 C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\WemaAssessment.ServiceDefaults\obj\Debug\net8.0\WemaAssessment.ServiceDefaults.pdb
 C:\Users\DELL\source\repos\WemaAssessmentRepo\WemaAssessment\WemaAssessment.ServiceDefaults\obj\Debug\net8.0\ref\WemaAssessment.ServiceDefaults.dll
+C:\Users\DELL\Source\Repos\WemaAssessmentRepo\WemaAssessment\WemaAssessment.ServiceDefaults\obj\Debug\net8.0\WemaAssessment.ServiceDefaults.sourcelink.json

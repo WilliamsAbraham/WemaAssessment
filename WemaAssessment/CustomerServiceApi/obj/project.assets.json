@@ -6760,7 +6760,7 @@
       "projectName": "CustomerServiceApi",
       "projectPath": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\CustomerServiceApi.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\source\\repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Source\\Repos\\WemaAssessmentRepo\\WemaAssessment\\CustomerServiceApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
